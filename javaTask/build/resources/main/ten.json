@@ -1,0 +1,999 @@
+[ {
+  "playerId" : 18146,
+  "nickname" : "RandomPlayer#18146",
+  "progresses" : [ {
+    "id" : 814603,
+    "playerId" : 18146,
+    "resourceId" : 69856758,
+    "score" : 3,
+    "maxScore" : 150
+  }, {
+    "id" : 814602,
+    "playerId" : 18146,
+    "resourceId" : 1078979096,
+    "score" : 2,
+    "maxScore" : 500
+  }, {
+    "id" : 814600,
+    "playerId" : 18146,
+    "resourceId" : 576756884,
+    "score" : 0,
+    "maxScore" : 900
+  }, {
+    "id" : 814601,
+    "playerId" : 18146,
+    "resourceId" : 315464543,
+    "score" : 1,
+    "maxScore" : 1000
+  } ],
+  "currencies" : {
+    "81461" : {
+      "id" : 81461,
+      "resourceId" : 1024345341,
+      "name" : "CRYSTAL",
+      "count" : 27
+    },
+    "81463" : {
+      "id" : 81463,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 41
+    },
+    "81465" : {
+      "id" : 81465,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 79
+    }
+  },
+  "items" : {
+    "1629201" : {
+      "id" : 1629201,
+      "resourceId" : 956894673,
+      "count" : 1,
+      "level" : 19
+    },
+    "1629203" : {
+      "id" : 1629203,
+      "resourceId" : 469875784,
+      "count" : 8,
+      "level" : 15
+    },
+    "1629205" : {
+      "id" : 1629205,
+      "resourceId" : 1068597761,
+      "count" : 27,
+      "level" : 99
+    },
+    "1629207" : {
+      "id" : 1629207,
+      "resourceId" : 869657643,
+      "count" : 64,
+      "level" : 36
+    }
+  }
+}, {
+  "playerId" : 10542,
+  "nickname" : "RandomPlayer#10542",
+  "progresses" : [ {
+    "id" : 54201,
+    "playerId" : 10542,
+    "resourceId" : 35867957,
+    "score" : 1,
+    "maxScore" : 850
+  }, {
+    "id" : 54203,
+    "playerId" : 10542,
+    "resourceId" : 21234322,
+    "score" : 3,
+    "maxScore" : 800
+  }, {
+    "id" : 54204,
+    "playerId" : 10542,
+    "resourceId" : 1232342111,
+    "score" : 4,
+    "maxScore" : 10
+  }, {
+    "id" : 54202,
+    "playerId" : 10542,
+    "resourceId" : 345115453,
+    "score" : 2,
+    "maxScore" : 700
+  }, {
+    "id" : 54200,
+    "playerId" : 10542,
+    "resourceId" : 1078979096,
+    "score" : 0,
+    "maxScore" : 500
+  }, {
+    "id" : 54205,
+    "playerId" : 10542,
+    "resourceId" : 134534069,
+    "score" : 5,
+    "maxScore" : 500
+  } ],
+  "currencies" : {
+    "5425" : {
+      "id" : 5425,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 79
+    },
+    "5427" : {
+      "id" : 5427,
+      "resourceId" : 1000234125,
+      "name" : "SANDAL",
+      "count" : 153
+    },
+    "5421" : {
+      "id" : 5421,
+      "resourceId" : 1024345341,
+      "name" : "CRYSTAL",
+      "count" : 27
+    },
+    "5423" : {
+      "id" : 5423,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 41
+    }
+  },
+  "items" : {
+    "108401" : {
+      "id" : 108401,
+      "resourceId" : 956894673,
+      "count" : 1,
+      "level" : 98
+    }
+  }
+}, {
+  "playerId" : 11154,
+  "nickname" : "RandomPlayer#11154",
+  "progresses" : [ {
+    "id" : 115405,
+    "playerId" : 11154,
+    "resourceId" : 36457659,
+    "score" : 5,
+    "maxScore" : 1000
+  }, {
+    "id" : 115409,
+    "playerId" : 11154,
+    "resourceId" : 69856758,
+    "score" : 9,
+    "maxScore" : 150
+  }, {
+    "id" : 115401,
+    "playerId" : 11154,
+    "resourceId" : 1230985215,
+    "score" : 1,
+    "maxScore" : 5000
+  }, {
+    "id" : 115408,
+    "playerId" : 11154,
+    "resourceId" : 576756884,
+    "score" : 8,
+    "maxScore" : 900
+  }, {
+    "id" : 115403,
+    "playerId" : 11154,
+    "resourceId" : 1232342111,
+    "score" : 3,
+    "maxScore" : 10
+  }, {
+    "id" : 115413,
+    "playerId" : 11154,
+    "resourceId" : 75967895,
+    "score" : 13,
+    "maxScore" : 700
+  }, {
+    "id" : 115400,
+    "playerId" : 11154,
+    "resourceId" : 315464543,
+    "score" : 0,
+    "maxScore" : 1000
+  }, {
+    "id" : 115412,
+    "playerId" : 11154,
+    "resourceId" : 1070598751,
+    "score" : 12,
+    "maxScore" : 7000
+  }, {
+    "id" : 115404,
+    "playerId" : 11154,
+    "resourceId" : 635745346,
+    "score" : 4,
+    "maxScore" : 150
+  }, {
+    "id" : 115407,
+    "playerId" : 11154,
+    "resourceId" : 86798676,
+    "score" : 7,
+    "maxScore" : 800
+  }, {
+    "id" : 115410,
+    "playerId" : 11154,
+    "resourceId" : 21234322,
+    "score" : 10,
+    "maxScore" : 800
+  }, {
+    "id" : 115411,
+    "playerId" : 11154,
+    "resourceId" : 35867957,
+    "score" : 11,
+    "maxScore" : 850
+  }, {
+    "id" : 115402,
+    "playerId" : 11154,
+    "resourceId" : 645757568,
+    "score" : 2,
+    "maxScore" : 7000
+  }, {
+    "id" : 115406,
+    "playerId" : 11154,
+    "resourceId" : 345115453,
+    "score" : 6,
+    "maxScore" : 700
+  } ],
+  "currencies" : {
+    "11541" : {
+      "id" : 11541,
+      "resourceId" : 1024345341,
+      "name" : "CRYSTAL",
+      "count" : 27
+    },
+    "11543" : {
+      "id" : 11543,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 41
+    },
+    "11545" : {
+      "id" : 11545,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 79
+    },
+    "11547" : {
+      "id" : 11547,
+      "resourceId" : 1000234125,
+      "name" : "SANDAL",
+      "count" : 153
+    }
+  },
+  "items" : {
+    "230803" : {
+      "id" : 230803,
+      "resourceId" : 869657643,
+      "count" : 8,
+      "level" : 46
+    },
+    "230801" : {
+      "id" : 230801,
+      "resourceId" : 466778646,
+      "count" : 1,
+      "level" : 80
+    }
+  }
+}, {
+  "playerId" : 17176,
+  "nickname" : "RandomPlayer#17176",
+  "progresses" : [ {
+    "id" : 717605,
+    "playerId" : 17176,
+    "resourceId" : 1078979096,
+    "score" : 5,
+    "maxScore" : 500
+  }, {
+    "id" : 717601,
+    "playerId" : 17176,
+    "resourceId" : 6786564,
+    "score" : 1,
+    "maxScore" : 5000
+  }, {
+    "id" : 717615,
+    "playerId" : 17176,
+    "resourceId" : 78789566,
+    "score" : 15,
+    "maxScore" : 100
+  }, {
+    "id" : 717614,
+    "playerId" : 17176,
+    "resourceId" : 1230985215,
+    "score" : 14,
+    "maxScore" : 5000
+  }, {
+    "id" : 717611,
+    "playerId" : 17176,
+    "resourceId" : 645757568,
+    "score" : 11,
+    "maxScore" : 7000
+  }, {
+    "id" : 717602,
+    "playerId" : 17176,
+    "resourceId" : 35867957,
+    "score" : 2,
+    "maxScore" : 850
+  }, {
+    "id" : 717609,
+    "playerId" : 17176,
+    "resourceId" : 315464543,
+    "score" : 9,
+    "maxScore" : 1000
+  }, {
+    "id" : 717613,
+    "playerId" : 17176,
+    "resourceId" : 1875658756,
+    "score" : 13,
+    "maxScore" : 10000
+  }, {
+    "id" : 717612,
+    "playerId" : 17176,
+    "resourceId" : 1070598751,
+    "score" : 12,
+    "maxScore" : 7000
+  }, {
+    "id" : 717607,
+    "playerId" : 17176,
+    "resourceId" : 345115453,
+    "score" : 7,
+    "maxScore" : 700
+  }, {
+    "id" : 717604,
+    "playerId" : 17176,
+    "resourceId" : 21234322,
+    "score" : 4,
+    "maxScore" : 800
+  }, {
+    "id" : 717606,
+    "playerId" : 17176,
+    "resourceId" : 36457659,
+    "score" : 6,
+    "maxScore" : 1000
+  }, {
+    "id" : 717600,
+    "playerId" : 17176,
+    "resourceId" : 1113546327,
+    "score" : 0,
+    "maxScore" : 850
+  }, {
+    "id" : 717603,
+    "playerId" : 17176,
+    "resourceId" : 576756884,
+    "score" : 3,
+    "maxScore" : 900
+  }, {
+    "id" : 717608,
+    "playerId" : 17176,
+    "resourceId" : 1232342111,
+    "score" : 8,
+    "maxScore" : 10
+  }, {
+    "id" : 717610,
+    "playerId" : 17176,
+    "resourceId" : 134534069,
+    "score" : 10,
+    "maxScore" : 500
+  } ],
+  "currencies" : { },
+  "items" : { }
+}, {
+  "playerId" : 11814,
+  "nickname" : "RandomPlayer#11814",
+  "progresses" : [ {
+    "id" : 181402,
+    "playerId" : 11814,
+    "resourceId" : 36457659,
+    "score" : 2,
+    "maxScore" : 1000
+  }, {
+    "id" : 181400,
+    "playerId" : 11814,
+    "resourceId" : 78789566,
+    "score" : 0,
+    "maxScore" : 100
+  }, {
+    "id" : 181404,
+    "playerId" : 11814,
+    "resourceId" : 645757568,
+    "score" : 4,
+    "maxScore" : 7000
+  }, {
+    "id" : 181401,
+    "playerId" : 11814,
+    "resourceId" : 1875658756,
+    "score" : 1,
+    "maxScore" : 10000
+  }, {
+    "id" : 181403,
+    "playerId" : 11814,
+    "resourceId" : 69856758,
+    "score" : 3,
+    "maxScore" : 150
+  } ],
+  "currencies" : {
+    "18145" : {
+      "id" : 18145,
+      "resourceId" : 1024345341,
+      "name" : "CRYSTAL",
+      "count" : 79
+    },
+    "18147" : {
+      "id" : 18147,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 153
+    },
+    "18141" : {
+      "id" : 18141,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 27
+    },
+    "18143" : {
+      "id" : 18143,
+      "resourceId" : 1000234125,
+      "name" : "SANDAL",
+      "count" : 41
+    }
+  },
+  "items" : { }
+}, {
+  "playerId" : 14776,
+  "nickname" : "RandomPlayer#14776",
+  "progresses" : [ {
+    "id" : 477600,
+    "playerId" : 14776,
+    "resourceId" : 1230985215,
+    "score" : 0,
+    "maxScore" : 5000
+  } ],
+  "currencies" : { },
+  "items" : { }
+}, {
+  "playerId" : 10733,
+  "nickname" : "RandomPlayer#10733",
+  "progresses" : [ {
+    "id" : 73315,
+    "playerId" : 10733,
+    "resourceId" : 86798676,
+    "score" : 15,
+    "maxScore" : 800
+  }, {
+    "id" : 73320,
+    "playerId" : 10733,
+    "resourceId" : 1230985215,
+    "score" : 20,
+    "maxScore" : 5000
+  }, {
+    "id" : 73305,
+    "playerId" : 10733,
+    "resourceId" : 315464543,
+    "score" : 5,
+    "maxScore" : 1000
+  }, {
+    "id" : 73309,
+    "playerId" : 10733,
+    "resourceId" : 345115453,
+    "score" : 9,
+    "maxScore" : 700
+  }, {
+    "id" : 73306,
+    "playerId" : 10733,
+    "resourceId" : 1232342111,
+    "score" : 6,
+    "maxScore" : 10
+  }, {
+    "id" : 73307,
+    "playerId" : 10733,
+    "resourceId" : 1113546323,
+    "score" : 7,
+    "maxScore" : 100
+  }, {
+    "id" : 73317,
+    "playerId" : 10733,
+    "resourceId" : 1113546327,
+    "score" : 17,
+    "maxScore" : 850
+  }, {
+    "id" : 73308,
+    "playerId" : 10733,
+    "resourceId" : 635745346,
+    "score" : 8,
+    "maxScore" : 150
+  }, {
+    "id" : 73311,
+    "playerId" : 10733,
+    "resourceId" : 69856758,
+    "score" : 11,
+    "maxScore" : 150
+  }, {
+    "id" : 73312,
+    "playerId" : 10733,
+    "resourceId" : 1070598751,
+    "score" : 12,
+    "maxScore" : 7000
+  }, {
+    "id" : 73319,
+    "playerId" : 10733,
+    "resourceId" : 587687,
+    "score" : 19,
+    "maxScore" : 10000
+  }, {
+    "id" : 73323,
+    "playerId" : 10733,
+    "resourceId" : 6786564,
+    "score" : 23,
+    "maxScore" : 5000
+  }, {
+    "id" : 73322,
+    "playerId" : 10733,
+    "resourceId" : 1875658756,
+    "score" : 22,
+    "maxScore" : 10000
+  }, {
+    "id" : 73310,
+    "playerId" : 10733,
+    "resourceId" : 645757568,
+    "score" : 10,
+    "maxScore" : 7000
+  }, {
+    "id" : 73318,
+    "playerId" : 10733,
+    "resourceId" : 980678,
+    "score" : 18,
+    "maxScore" : 1000
+  }, {
+    "id" : 73316,
+    "playerId" : 10733,
+    "resourceId" : 75967895,
+    "score" : 16,
+    "maxScore" : 700
+  }, {
+    "id" : 73300,
+    "playerId" : 10733,
+    "resourceId" : 134534069,
+    "score" : 0,
+    "maxScore" : 500
+  }, {
+    "id" : 73302,
+    "playerId" : 10733,
+    "resourceId" : 79786753,
+    "score" : 2,
+    "maxScore" : 900
+  }, {
+    "id" : 73314,
+    "playerId" : 10733,
+    "resourceId" : 3153461,
+    "score" : 14,
+    "maxScore" : 10
+  }, {
+    "id" : 73304,
+    "playerId" : 10733,
+    "resourceId" : 35867957,
+    "score" : 4,
+    "maxScore" : 850
+  }, {
+    "id" : 73321,
+    "playerId" : 10733,
+    "resourceId" : 36457659,
+    "score" : 21,
+    "maxScore" : 1000
+  }, {
+    "id" : 73303,
+    "playerId" : 10733,
+    "resourceId" : 576756884,
+    "score" : 3,
+    "maxScore" : 900
+  }, {
+    "id" : 73324,
+    "playerId" : 10733,
+    "resourceId" : 1078979096,
+    "score" : 24,
+    "maxScore" : 500
+  }, {
+    "id" : 73301,
+    "playerId" : 10733,
+    "resourceId" : 21234322,
+    "score" : 1,
+    "maxScore" : 800
+  }, {
+    "id" : 73313,
+    "playerId" : 10733,
+    "resourceId" : 78789566,
+    "score" : 13,
+    "maxScore" : 100
+  } ],
+  "currencies" : {
+    "7331" : {
+      "id" : 7331,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 27
+    },
+    "7333" : {
+      "id" : 7333,
+      "resourceId" : 1000234125,
+      "name" : "SANDAL",
+      "count" : 41
+    },
+    "7335" : {
+      "id" : 7335,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 79
+    }
+  },
+  "items" : {
+    "146611" : {
+      "id" : 146611,
+      "resourceId" : 956894673,
+      "count" : 216,
+      "level" : 61
+    },
+    "146609" : {
+      "id" : 146609,
+      "resourceId" : 1068597761,
+      "count" : 125,
+      "level" : 76
+    },
+    "146603" : {
+      "id" : 146603,
+      "resourceId" : 1230985215,
+      "count" : 8,
+      "level" : 89
+    },
+    "146601" : {
+      "id" : 146601,
+      "resourceId" : 469875784,
+      "count" : 1,
+      "level" : 8
+    },
+    "146607" : {
+      "id" : 146607,
+      "resourceId" : 466778646,
+      "count" : 64,
+      "level" : 66
+    },
+    "146605" : {
+      "id" : 146605,
+      "resourceId" : 869657643,
+      "count" : 27,
+      "level" : 40
+    }
+  }
+}, {
+  "playerId" : 15043,
+  "nickname" : "RandomPlayer#15043",
+  "progresses" : [ {
+    "id" : 504320,
+    "playerId" : 15043,
+    "resourceId" : 134534069,
+    "score" : 20,
+    "maxScore" : 500
+  }, {
+    "id" : 504315,
+    "playerId" : 15043,
+    "resourceId" : 1078979096,
+    "score" : 15,
+    "maxScore" : 500
+  }, {
+    "id" : 504312,
+    "playerId" : 15043,
+    "resourceId" : 1113546323,
+    "score" : 12,
+    "maxScore" : 100
+  }, {
+    "id" : 504313,
+    "playerId" : 15043,
+    "resourceId" : 79786753,
+    "score" : 13,
+    "maxScore" : 900
+  }, {
+    "id" : 504300,
+    "playerId" : 15043,
+    "resourceId" : 21234322,
+    "score" : 0,
+    "maxScore" : 800
+  }, {
+    "id" : 504314,
+    "playerId" : 15043,
+    "resourceId" : 587687,
+    "score" : 14,
+    "maxScore" : 10000
+  }, {
+    "id" : 504303,
+    "playerId" : 15043,
+    "resourceId" : 645757568,
+    "score" : 3,
+    "maxScore" : 7000
+  }, {
+    "id" : 504319,
+    "playerId" : 15043,
+    "resourceId" : 315464543,
+    "score" : 19,
+    "maxScore" : 1000
+  }, {
+    "id" : 504321,
+    "playerId" : 15043,
+    "resourceId" : 3153461,
+    "score" : 21,
+    "maxScore" : 10
+  }, {
+    "id" : 504322,
+    "playerId" : 15043,
+    "resourceId" : 345115453,
+    "score" : 22,
+    "maxScore" : 700
+  }, {
+    "id" : 504302,
+    "playerId" : 15043,
+    "resourceId" : 75967895,
+    "score" : 2,
+    "maxScore" : 700
+  }, {
+    "id" : 504324,
+    "playerId" : 15043,
+    "resourceId" : 1230985215,
+    "score" : 24,
+    "maxScore" : 5000
+  }, {
+    "id" : 504317,
+    "playerId" : 15043,
+    "resourceId" : 1070598751,
+    "score" : 17,
+    "maxScore" : 7000
+  }, {
+    "id" : 504308,
+    "playerId" : 15043,
+    "resourceId" : 980678,
+    "score" : 8,
+    "maxScore" : 1000
+  }, {
+    "id" : 504323,
+    "playerId" : 15043,
+    "resourceId" : 1232342111,
+    "score" : 23,
+    "maxScore" : 10
+  }, {
+    "id" : 504307,
+    "playerId" : 15043,
+    "resourceId" : 1875658756,
+    "score" : 7,
+    "maxScore" : 10000
+  }, {
+    "id" : 504311,
+    "playerId" : 15043,
+    "resourceId" : 69856758,
+    "score" : 11,
+    "maxScore" : 150
+  }, {
+    "id" : 504318,
+    "playerId" : 15043,
+    "resourceId" : 86798676,
+    "score" : 18,
+    "maxScore" : 800
+  }, {
+    "id" : 504310,
+    "playerId" : 15043,
+    "resourceId" : 1113546327,
+    "score" : 10,
+    "maxScore" : 850
+  }, {
+    "id" : 504306,
+    "playerId" : 15043,
+    "resourceId" : 635745346,
+    "score" : 6,
+    "maxScore" : 150
+  }, {
+    "id" : 504301,
+    "playerId" : 15043,
+    "resourceId" : 35867957,
+    "score" : 1,
+    "maxScore" : 850
+  }, {
+    "id" : 504305,
+    "playerId" : 15043,
+    "resourceId" : 78789566,
+    "score" : 5,
+    "maxScore" : 100
+  }, {
+    "id" : 504316,
+    "playerId" : 15043,
+    "resourceId" : 576756884,
+    "score" : 16,
+    "maxScore" : 900
+  }, {
+    "id" : 504304,
+    "playerId" : 15043,
+    "resourceId" : 36457659,
+    "score" : 4,
+    "maxScore" : 1000
+  }, {
+    "id" : 504309,
+    "playerId" : 15043,
+    "resourceId" : 6786564,
+    "score" : 9,
+    "maxScore" : 5000
+  } ],
+  "currencies" : {
+    "50433" : {
+      "id" : 50433,
+      "resourceId" : 1000234125,
+      "name" : "SANDAL",
+      "count" : 41
+    },
+    "50435" : {
+      "id" : 50435,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 79
+    },
+    "50437" : {
+      "id" : 50437,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 153
+    },
+    "50431" : {
+      "id" : 50431,
+      "resourceId" : 1024345341,
+      "name" : "CRYSTAL",
+      "count" : 27
+    }
+  },
+  "items" : {
+    "1008603" : {
+      "id" : 1008603,
+      "resourceId" : 869657643,
+      "count" : 8,
+      "level" : 86
+    },
+    "1008601" : {
+      "id" : 1008601,
+      "resourceId" : 466778646,
+      "count" : 1,
+      "level" : 86
+    }
+  }
+}, {
+  "playerId" : 10861,
+  "nickname" : "RandomPlayer#10861",
+  "progresses" : [ {
+    "id" : 86100,
+    "playerId" : 10861,
+    "resourceId" : 69856758,
+    "score" : 0,
+    "maxScore" : 150
+  }, {
+    "id" : 86106,
+    "playerId" : 10861,
+    "resourceId" : 980678,
+    "score" : 6,
+    "maxScore" : 1000
+  }, {
+    "id" : 86103,
+    "playerId" : 10861,
+    "resourceId" : 78789566,
+    "score" : 3,
+    "maxScore" : 100
+  }, {
+    "id" : 86101,
+    "playerId" : 10861,
+    "resourceId" : 3153461,
+    "score" : 1,
+    "maxScore" : 10
+  }, {
+    "id" : 86108,
+    "playerId" : 10861,
+    "resourceId" : 36457659,
+    "score" : 8,
+    "maxScore" : 1000
+  }, {
+    "id" : 86104,
+    "playerId" : 10861,
+    "resourceId" : 645757568,
+    "score" : 4,
+    "maxScore" : 7000
+  }, {
+    "id" : 86105,
+    "playerId" : 10861,
+    "resourceId" : 587687,
+    "score" : 5,
+    "maxScore" : 10000
+  }, {
+    "id" : 86102,
+    "playerId" : 10861,
+    "resourceId" : 35867957,
+    "score" : 2,
+    "maxScore" : 850
+  }, {
+    "id" : 86107,
+    "playerId" : 10861,
+    "resourceId" : 1113546327,
+    "score" : 7,
+    "maxScore" : 850
+  } ],
+  "currencies" : { },
+  "items" : {
+    "172203" : {
+      "id" : 172203,
+      "resourceId" : 1230985215,
+      "count" : 8,
+      "level" : 51
+    },
+    "172201" : {
+      "id" : 172201,
+      "resourceId" : 1068597761,
+      "count" : 1,
+      "level" : 30
+    },
+    "172207" : {
+      "id" : 172207,
+      "resourceId" : 469875784,
+      "count" : 64,
+      "level" : 4
+    },
+    "172205" : {
+      "id" : 172205,
+      "resourceId" : 956894673,
+      "count" : 27,
+      "level" : 34
+    }
+  }
+}, {
+  "playerId" : 19131,
+  "nickname" : "RandomPlayer#19131",
+  "progresses" : [ {
+    "id" : 913102,
+    "playerId" : 19131,
+    "resourceId" : 75967895,
+    "score" : 2,
+    "maxScore" : 700
+  }, {
+    "id" : 913101,
+    "playerId" : 19131,
+    "resourceId" : 1070598751,
+    "score" : 1,
+    "maxScore" : 7000
+  }, {
+    "id" : 913100,
+    "playerId" : 19131,
+    "resourceId" : 576756884,
+    "score" : 0,
+    "maxScore" : 900
+  } ],
+  "currencies" : {
+    "91313" : {
+      "id" : 91313,
+      "resourceId" : 1012342342,
+      "name" : "TICKET",
+      "count" : 41
+    },
+    "91315" : {
+      "id" : 91315,
+      "resourceId" : 1003546323,
+      "name" : "GOLD",
+      "count" : 79
+    },
+    "91311" : {
+      "id" : 91311,
+      "resourceId" : 1000234125,
+      "name" : "SANDAL",
+      "count" : 27
+    }
+  },
+  "items" : {
+    "1826203" : {
+      "id" : 1826203,
+      "resourceId" : 466778646,
+      "count" : 8,
+      "level" : 56
+    },
+    "1826201" : {
+      "id" : 1826201,
+      "resourceId" : 869657643,
+      "count" : 1,
+      "level" : 28
+    }
+  }
+} ]
